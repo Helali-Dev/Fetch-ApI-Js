@@ -7,7 +7,7 @@
 body {
   font-family: varela;
   background: #b0f8f5;
-  color: #fff;
+  color: #000000;
 }
 
 @font-face {
@@ -46,6 +46,7 @@ input {
   justify-content: center;
   flex-wrap: wrap;
   gap: 2rem;
+  height: 77vh;
 }
 
 @media screen and (min-width: 1200px) {
